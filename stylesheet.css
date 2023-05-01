@@ -1,0 +1,26 @@
+h1 {
+  font-family:courier;
+  text-align:center;
+
+}
+
+p {
+  font-family:courier;
+  text-align:center;
+}
+
+
+#footer {
+    position: absolute;
+    bottom: 0;
+    width: 644px;
+    height: 20px;
+    margin: 0 auto;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
